@@ -1,0 +1,8 @@
+The different RAM types include DRAM, SRAM, SDRAM, VRAM, ECC RAM, and DDR. DRAM is a type of computer memory that provides temporary storage for data and programs that the CPU needs quickly. SRAM is a much more expensive type of 
+memory that is faster ad more reliable. It uses flip-flops instead of capacitors to store data. SDRAM is a type of computer memory that is synchronized with the system bus. DDR is a type of synchronous dynamic
+random-access memory widely used in computers and other electronic devices. VRAM is dedicated memory on a computer's GPU that stores data for graphics and video processing. ECC RAM is a type of computer memory 
+that automatically detects and corrects internal data corruption.
+The different storage types include HDD, SSD, NVMe SSD, SSHD, Optical discs, and Flash storage. HDD is a storage device that uses magnetic storgae to save and retrieve digital data. SSD is a storage 
+device that uses flash memory to store data electronically. NVMe is a storage access and transport protocol for flash and next-generation solid-state drives. SSHD integrates traditional hard drive storage with a solid
+-state drive. You get the capacity of a HDD and the speed of a SSD in one package. Optical drives use lasers to read from or write to data stored on optical discs. Flash storage uses flash memory chips to store data
+without needing power to retain it. 
