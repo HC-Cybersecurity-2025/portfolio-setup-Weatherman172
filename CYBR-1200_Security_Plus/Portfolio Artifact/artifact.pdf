@@ -1,0 +1,23 @@
+For my Security+ portfolio artifact, I created a security observation report about weak passwords at Company A. In this scenario, employees use usernames and passwords to log into their work computers, email, and
+internal company systems. During a security review, it was discovered that many employees are using weak passwords. Some passwords are very simple, such as “Password123,” the company name with numbers, or other
+easy-to-guess combinations. Some employees are also reusing the same password across multiple systems. This creates a serious security concern for the organization.
+
+Weak passwords are considered a security vulnerability because they create a weakness in the company’s authentication process. Authentication is used to verify a user’s identity before allowing access to systems 
+and data. If passwords are short, simple, or reused, they are much easier for attackers to guess or crack. This weakens access control, which is meant to limit who can access certain information. When authentication
+and access control are not strong, it increases the overall risk to the organization.
+
+Weak passwords are a major security risk because they can be exploited in several ways. Attackers can use brute-force attacks or password spraying to try common passwords until they gain access. If one account is
+compromised and the employee has reused the same password on other systems, the attacker may be able to access multiple parts of the network. This could lead to unauthorized access to sensitive data, data theft, 
+or even a larger system breach. In some cases, attackers could move through the network and gain higher levels of access.
+
+Different types of threat actors could take advantage of this issue. Cybercriminals may try to steal company data for financial gain. Hackers may use automated tools to target accounts with weak passwords. Insider 
+threats, such as a disgruntled employee, could also take advantage of poor password practices. Phishing attackers might trick employees into revealing their passwords and then use them to access company systems. 
+Even someone with basic hacking knowledge could attempt to exploit weak passwords.
+
+If this vulnerability is exploited, Company A could face serious consequences. The company could experience a data breach involving customer or employee information, which could lead to financial losses and damage 
+to its reputation. Customers may lose trust in the company if their information is exposed. There could also be legal or regulatory consequences depending on the type of data involved. In addition, the company 
+could experience downtime if systems are disrupted or locked by attackers.
+
+Overall, weak passwords are a serious security issue at Company A because they reduce the effectiveness of authentication and access control. This makes it easier for threat actors to gain unauthorized access to
+systems and data. To reduce this risk, Company A should implement stronger password policies, require longer and more complex passwords, prevent password reuse, and consider adding multi-factor authentication.
+Improving password security would significantly lower the risk of a security breach and help protect the organization.
